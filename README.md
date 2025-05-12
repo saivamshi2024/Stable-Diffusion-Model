@@ -1,4 +1,3 @@
-# Stable-Diffusion-Model
 # 🧠✨ Text-to-Image Generator using Stable Diffusion & Gradio
 
 This project demonstrates how to convert **text prompts into images** using the powerful **Stable Diffusion model** and a simple **Gradio** interface for user interaction.
